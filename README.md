@@ -1,6 +1,8 @@
 # bubble-view
 [Android] 吹き出し付きのFrameLayout
 
+![bubble-view](https://user-images.githubusercontent.com/39880172/72416687-9e72f480-37ba-11ea-8a8f-238a702d1b7f.png)
+
 ## Usage
 
 吹き出し内に描画したいレイアウトをBubbleViewで囲むだけです
